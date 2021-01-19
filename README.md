@@ -12,4 +12,4 @@ Checklist:
 - [x] simple form
 - [x] active storage
 - [x] active storage variants
-- [] nested attributes
+- [ ] nested attributes
